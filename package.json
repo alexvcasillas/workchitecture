@@ -1,0 +1,18 @@
+{
+  "name": "workchitecture",
+  "version": "0.0.1-alpha.0",
+  "description": "Worker based architectured that separates UI, state and other operations with Web Workers",
+  "license": "MIT",
+  "main": "src/workchitecture.js",
+  "scripts": {
+    "dev": "simplehttpserver ./"
+  },
+  "author": {
+    "name": "Alex Casillas",
+    "email": "alexvcasillas@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "simplehttpserver": "^0.3.0"
+  }
+}
